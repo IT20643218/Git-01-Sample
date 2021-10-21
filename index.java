@@ -4,6 +4,10 @@ class Example{
 		int y = 20;
 		
 		System.out.println("Total :"+ (x + y));
+
+System.out.println("Hello world");
+		
+		
 	}
 
 }
